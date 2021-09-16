@@ -52,7 +52,6 @@ class Skills extends SoftwareDeveloper {
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: America/Argentina
 
 💬 Languages: 
 JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
@@ -64,7 +63,6 @@ Kotlin                   2 hrs 1 min         ███░░░░░░░░�
 VsCode                   9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
 Anypoint Studio          5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.71% 
 IntelliJ                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
-
 
 
 💻 Operating Systems: 
