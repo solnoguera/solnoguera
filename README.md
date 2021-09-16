@@ -70,9 +70,9 @@ Ubuntu                  17 hrs 5 mins       ████████████
 
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solnoguera&show_icons=true&theme=radical&hide=contribs,stars,issues))](https://github.com/anuraghazra/github-readme-stats)
+[![solnoguera's GitHub stats](https://github-readme-stats.vercel.app/api?username=solnoguera&show_icons=true&theme=radical&hide=contribs,stars,issues))](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=solnoguera&layout=compact&hide=Handlebars,CSS)
+![solnoguera's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=solnoguera&layout=compact&hide=Handlebars,CSS)
 
 
 ⭐️ From [@solnoguera](https://github.com/solnoguera)
