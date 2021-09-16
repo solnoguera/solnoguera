@@ -38,8 +38,41 @@ class Skills extends SoftwareDeveloper {
 
 ---
 
+**I'm an early 🐤** 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solnoguera&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats&hide=contribs)
+```text
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: America/Argentina
+
+💬 Languages: 
+JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
+Java                     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
+Python                   2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+Kotlin                   2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
+
+🔥 Editors: 
+VsCode                   9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
+Anypoint Studio          5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.71% 
+IntelliJ                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
+
+
+
+💻 Operating Systems: 
+Ubuntu                  17 hrs 5 mins       █████████████████████████   100.0%
+
+```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solnoguera&show_icons=true&theme=radical&hide=contribs,stars,issues))](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=solnoguera&layout=compact&hide=Handlebars,CSS)
 
