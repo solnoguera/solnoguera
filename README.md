@@ -1,7 +1,7 @@
-### Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hello World, I'm Sol !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="24px">
 ### I'm 20 years old Self-taught Back-End developer from Argentina.
 
-<h2> Hi, I'm Sol! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unahur.edu.ar/">University of Hurlingham</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Integration Developer at <a href="https://epidata.net/">Epidata</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
