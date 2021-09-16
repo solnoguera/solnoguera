@@ -39,8 +39,9 @@ class Skills extends SoftwareDeveloper {
 ---
 
 
-### - Languages and Tools...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solnoguera&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats&hide=contribs)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=solnoguera&layout=compact&hide=Handlebars,CSS)
 
 
 ⭐️ From [@solnoguera](https://github.com/solnoguera)
