@@ -1,6 +1,6 @@
 ### Hello World, I'm Sol !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> 
 
-### I'm 20 years old Self-taught Back-End developer from Argentina. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30px">
+### I'm a 20 years old React developer from Argentina. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30px">
 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
@@ -27,18 +27,18 @@ class Bio extends SoftwareDeveloper {
 
 class Skills extends SoftwareDeveloper {
   languages  = ["Javascript", "HTML", "CSS", "Python", "Java", "Mulesoft"];
-  tools = ["NodeJS", "Express", "API Rests", "Unit Testing", "Git"];
+  tools = ["ReactJS", "NodeJS", "Express", "API Rests", "Unit Testing", "Git"];
   databases  = ["MySQL", "MongoDB"];
   architecture: ["microservices", "api-rest-development", "web-development"],
-  challenges: "I am doing a NodeJS course and a Full-Stack Bootcamp"
-  currentProject: "I am developing a web page for my family business!",
+  challenges: "I am learning the ReactJS Framework, NextJS"
+  currentProject: "I am developing an ecommerce with ReactJS for my family business!",
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
-**I'm an early 🐤** 
+**I'm an late nigth 🐤** 
 
 ```text
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
@@ -54,10 +54,9 @@ class Skills extends SoftwareDeveloper {
 ```text
 
 💬 Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
+JavaScript               6 hrs 40 mins       ████████████░░░░░░░░░░░░░   45.01% 
 Java                     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-Python                   2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Kotlin                   2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
+Dataweave                2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
 
 🔥 Editors: 
 VsCode                   9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
