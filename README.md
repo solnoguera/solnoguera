@@ -1,6 +1,6 @@
 ### Hello World, I'm Sol !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> 
 
-### I'm a 20 years old React developer from Argentina. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30px">
+### I'm a 20 years old React JS Developer from Argentina. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30px">
 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
@@ -26,11 +26,11 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ["Javascript", "HTML", "CSS", "Python", "Java", "Mulesoft"];
-  tools = ["ReactJS", "NodeJS", "Express", "API Rests", "Unit Testing", "Git"];
-  databases  = ["MySQL", "MongoDB"];
-  architecture: ["microservices", "api-rest-development", "web-development"],
-  challenges: "I am learning the ReactJS Framework, NextJS"
+  languages  = ["Javascript", "Python", "Java", "Kotlin"];
+  tools = ["ReactJS", "NodeJS", "Express", "API Rests", "Unit Testing", "Git", "HTML", "CSS",];
+  databases  = ["MySQL", "MariaDB", "MongoDB"];
+  architecture: ["web development", "frontend development", "microservices", "api-rest-development"],
+  challenges: "I am practising ReactJS and NextJS"
   currentProject: "I am developing an ecommerce with ReactJS for my family business!",
 }
 ```
