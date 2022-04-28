@@ -19,7 +19,7 @@ import SoftwareDeveloper from 'solnoguera';
 
 class Bio extends SoftwareDeveloper {
   name     = "Sol Noguera";
-  pronouns: ["she", "her"];
+  pronouns = ["she", "her"];
   title    = "Software Developer";
   company  = "Epidata";
   location = "Buenos Aires, AR";
@@ -29,9 +29,9 @@ class Skills extends SoftwareDeveloper {
   languages  = ["Javascript", "Python", "Java", "Kotlin"];
   tools = ["ReactJS", "NodeJS", "Express", "API Rests", "Unit Testing", "Git", "HTML", "CSS",];
   databases  = ["MySQL", "MariaDB", "MongoDB"];
-  architecture: ["web development", "frontend development", "microservices", "api-rest-development"],
-  challenges: "I am practising ReactJS and NextJS"
-  currentProject: "I am developing an ecommerce with ReactJS for my family business!",
+  architecture = ["web development", "frontend development", "microservices", "api-rest-development"],
+  challenges = "I am practising ReactJS and NextJS"
+  currentProject = "I am developing an ecommerce with ReactJS for my family business!",
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
