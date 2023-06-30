@@ -20,54 +20,21 @@ import SoftwareDeveloper from 'solnoguera';
 class Bio extends SoftwareDeveloper {
   name     = "Sol Noguera";
   pronouns = ["she", "her"];
-  title    = "Software Developer";
-  company  = "Epidata";
+  title    = "Full Stack Developer";
+  company  = "Codea IT";
   location = "Buenos Aires, AR";
 }
 
 class Skills extends SoftwareDeveloper {
   languages  = ["Javascript", "Typescript", "Java", "Kotlin", "Python"];
-  tools = ["React JS", "React Native", "Redux", "Node JS", "Express", "API Rest", "Unit Testing", "Git", "HTML", "CSS"];
-  databases  = ["MySQL", "MariaDB", "MongoDB", "Firestore", "SQLite"];
-  architecture = ["web development", "frontend development", "microservices", "api-rest-development"],
-  challenges = "I am practising React JS and React Native"
+  tools = ["React JS", "React Native", "Redux", "Node JS", "Express", "Sockets", "Smart Contracts", "Unit Testing", "Git", "HTML", "CSS"];
+  databases  = ["MySQL", "MongoDB", "MariaDB", "Firestore", "SQLite"];
+  architecture = ["Docker", "Kubernetes", "AWS", "Microservices", "Api-rest-development"],
+  challenges = "I am a Full Stack. My tech stack is React JS and Node JS"
   currentProject = "I am developing an ecommerce with React for my family business!",
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
-
----
-
-📊 **This week I spent my time on** 
-
-```text
-
-💬 Languages & Tools: 
-JavaScript               6 hrs 40 mins       ████████████░░░░░░░░░░░░░   45.01% 
-Java                     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-React Native             14 hrs 40 mins      ████████████████████░░░░░   75.01% 
-React JS                 8 hrs 40 mins       ████████████████░░░░░░░░░   65.32% 
-
-🔥 Editors: 
-VsCode                   9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-Anypoint Studio          5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.71% 
-IntelliJ                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
-
-```
-
-**I'm an late nigth 🐤** 
-
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-
-```
-
-[![solnoguera's GitHub stats](https://github-readme-stats.vercel.app/api?username=solnoguera&show_icons=true&theme=radical&hide=contribs,stars,issues))](https://github.com/anuraghazra/github-readme-stats)
-
-![solnoguera's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=solnoguera&layout=compact&hide=Handlebars,CSS)
 
 
 ⭐️ From [@solnoguera](https://github.com/solnoguera)
