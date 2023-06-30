@@ -29,7 +29,7 @@ class Skills extends SoftwareDeveloper {
   languages  = ["Javascript", "Typescript", "Java", "Kotlin", "Python"];
   tools = ["React JS", "React Native", "Redux", "Node JS", "Express", "Sockets", "Smart Contracts", "Unit Testing", "Git", "HTML", "CSS"];
   databases  = ["MySQL", "MongoDB", "MariaDB", "Firestore", "SQLite"];
-  architecture = ["Docker", "Kubernetes", "AWS", "Microservices", "Api-rest-development"],
+  architecture = ["Docker", "AWS", "Microservices", "Api-rest-development"],
   challenges = "I am a Full Stack. My tech stack is React JS and Node JS"
   currentProject = "I am developing an ecommerce with React for my family business!",
 }
