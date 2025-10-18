@@ -1,55 +1,68 @@
-### Hello World, I'm Sol !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> 
+### Hey there! I'm Sol 🌍  
 
-### I'm a young Fullstack Developer from Argentina. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30px">
+I'm a **Full Stack & Blockchain Developer** from Argentina, passionate about building secure, scalable, and elegant software — from web-based systems to on-chain applications.
 
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginnering Student at <a href="http://www.unahur.edu.ar/">University of Hurlingham</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Fullstack Developer at <a href="https://epidata.net/">Epidata</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+---
 
-[![Linkedin: solnoguera](https://img.shields.io/badge/-solnoguera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/solnoguera/)](https://www.linkedin.com/in/solnoguera/)
-[![GitHub solnoguera](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/solnoguera)
+### 💻 **About Me**
 
+- 🧠 Currently developing **Contract Management Systems** for **U.S. Government-grade platforms** at [OpenGov](https://opengov.com)  
+- 💡 Experienced in **real-time, blockchain-integrated applications** using Solidity, React, Node.js, and Web3.js  
+- 🧩 Passionate about solving **complex synchronization problems** and designing **robust architectures**  
+- 🌐 I enjoy blending **software engineering** with **innovation and creative design**
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+---
 
+### 🧰 **Tech Stack**
+
+**Languages:**  
+`JavaScript` · `TypeScript` · `Python` · `Solidity` · `Java` · `Kotlin`
+
+**Frontend:**  
+`React.js` · `Next.js` · `React Native` · `Redux` · `Tailwind CSS` · `Material UI`
+
+**Backend:**  
+`Node.js` · `Express.js` · `NestJS` · `WebSockets` · `REST APIs` · `GraphQL`
+
+**Blockchain:**  
+`Solidity` · `Smart Contracts (ERC-20 / ERC-721)` · `Ethers.js` · `Web3.js` · `Metamask`
+
+**Databases:**  
+`PostgreSQL` · `MongoDB` · `MySQL`
+
+**DevOps / Cloud:**  
+`Docker` · `Kubernetes` · `AWS (EC2, S3, Lambda)` · `GitHub Actions`
+
+---
+
+### 📚 **Education**
+
+🎓 **B.S. in Software Engineering** — [University of Hurlingham](http://www.unahur.edu.ar/)  
+> GPA: 9 / 10  
+
+🎓 **Computer Engineering (2020)** — [National University of Tres de Febrero](https://www.untref.edu.ar/)  
+> GPA: 8 / 10  
+
+---
+
+### 🌐 **Let's Connect**
+
+[![Linkedin: solnoguera](https://img.shields.io/badge/-solnoguera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/solnoguera/)](https://www.linkedin.com/in/solnoguera/)  
+[![GitHub followers](https://img.shields.io/github/followers/solnoguera?label=Follow&style=social)](https://github.com/solnoguera)
+
+---
 
 ```js
-import SoftwareDeveloper from 'solnoguera';
+import Developer from 'solnoguera';
 
-class Bio extends SoftwareDeveloper {
-  name     = "Sol Noguera";
-  pronouns = ["she", "her"];
-  title    = "Full Stack Developer";
-  company  = "Codea IT";
+class Bio extends Developer {
+  name = "Sol Noguera";
+  title = "Full Stack & Blockchain Developer";
   location = "Buenos Aires, AR";
+  currentRole = "Building government-grade systems @ OpenGov";
+  interests = ["AI integrations", "Blockchain architecture", "Space tech"];
 }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ["Javascript", "Typescript", "Java", "Kotlin", "Python"];
-  tools = ["React JS", "React Native", "Redux", "Node JS", "Express", "Sockets", "Smart Contracts", "Unit Testing", "Git", "HTML", "CSS"];
-  databases  = ["MySQL", "MongoDB", "MariaDB", "Firestore", "SQLite"];
-  architecture = ["Docker", "AWS", "Microservices", "Api-rest-development"],
-  challenges = "I am a Full Stack. My favorite tech stack is React JS and Node JS"
-  currentProject = "I am developing an ecommerce with React for my family business!",
-}
-```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
-
-
-⭐️ From [@solnoguera](https://github.com/solnoguera)
-
-<!--
-**solnoguera/solnoguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log(new Bio());
