@@ -39,7 +39,7 @@ I'm a **Full Stack & Blockchain Developer** from Argentina, passionate about bui
 
 ### 📚 **Education**
 
-🎓 **B.S. in Software Engineering** — [University of Hurlingham](http://www.unahur.edu.ar/)  
+🎓 **B.S. in Software Engineering** — [University of Hurlingham](https://unahur.edu.ar/)  
 > GPA: 9 / 10  
 
 🎓 **Computer Engineering (2020)** — [National University of Tres de Febrero](https://www.untref.edu.ar/)  
